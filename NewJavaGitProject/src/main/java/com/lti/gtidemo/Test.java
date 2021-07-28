@@ -1,5 +1,8 @@
+package com.lti.gtidemo;
+
+
 public class Test{
 public static void main(String args[]){
-system.out.println("heloo");
+	System.out.println("heloo");
 }
 }
